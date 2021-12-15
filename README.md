@@ -3,7 +3,6 @@
 ## Inhaltsverzeichnis 
 
 [1.   Dienstag, 14. Dezember 2021](#1)
-
 [2.   Mittwoch, 15. Dezember 2021](#2)
 
 ## Stundenblog
