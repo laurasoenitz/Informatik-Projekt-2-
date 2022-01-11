@@ -6,6 +6,8 @@
 
 [2.   Mittwoch, 15. Dezember 2021](#2)
 
+[2.   Dienstag, 11. Januar 2022](#3)
+
 ## Stundenblog
 
 ## <a name="1"></a> Dienstag, 14. Dezember 2021
@@ -17,3 +19,6 @@ Wir haben als erstes überlegt, welches Projekt wir gerne als Abschluss machen m
 Heute haben wir weiter in dem Buch gelesen und schon ein paar Bewegungen ausprobiert. So wissen wir nun, wie sich das Objekt bewegen kann und wie es sich drehen kann. Dann haben wir uns noch auf der Greenfoot website ein Lervideo angeschaut, welches uns gezeigt hat, wie man in den Editor schreibt und neue Funktionen einfügt. 
 
 ![grafik](https://user-images.githubusercontent.com/88385860/146188448-2a880b42-af76-4708-a748-91ce56a20e9d.png)
+
+## <a name="2"></a> Dienstag, 11. Januar 2022
+
