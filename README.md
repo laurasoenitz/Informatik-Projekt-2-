@@ -8,6 +8,8 @@
 
 [2.   Dienstag, 11. Januar 2022](#3)
 
+[3.   Mittwoch, 12. Januar 2022](#4)
+
 ## Stundenblog
 
 ## <a name="1"></a> Dienstag, 14. Dezember 2021
@@ -20,10 +22,12 @@ Heute haben wir weiter in dem Buch gelesen und schon ein paar Bewegungen ausprob
 
 ![grafik](https://user-images.githubusercontent.com/88385860/146188448-2a880b42-af76-4708-a748-91ce56a20e9d.png)
 
-## <a name="2"></a> Dienstag, 11. Januar 2022
+## <a name="3"></a> Dienstag, 11. Januar 2022
 
 Karlotta war heute krank, daher habe ich alleine weiter gearbeitet. Ich wollte meine Kentnisse weiter verbessern und habe weiter mit der Seite https://www.greenfoot.org/doc/joy-of-code gearbeitet. Ich habe damit angefangen eine Welt zu erstellen und danach habe ich eine Schildkröte erstellt. Diese konnte am Ende der Stunde sich bewegen und sobald sie den Rand berührt hat sie sich umgedreht. Ich habe mich also mit dem "If statements" beschäftigt. 
 
 ![Unbenannt](https://user-images.githubusercontent.com/88386035/149142910-6ae2fab3-95e2-429e-bfda-77466ef293a1.PNG)
 
-Morgen werde ich mit den nächsten Punkten von "Joy of Code" weiter arbeiten.
+Morgen werde ich mit den nächsten Punkten von "Joy of Code" weiter arbeiten. Dadurch kann ich die Blog Sprache besser kennen lernen und eventuell bald unsere eigene Spielidee entwickeln könnnen. 
+
+## <a name="4"></a> Mittwoch, 12. Januar 2022
