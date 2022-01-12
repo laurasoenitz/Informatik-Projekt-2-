@@ -22,3 +22,4 @@ Heute haben wir weiter in dem Buch gelesen und schon ein paar Bewegungen ausprob
 
 ## <a name="2"></a> Dienstag, 11. Januar 2022
 
+Karlotta war heute krank, daher habe ich alleine weiter 
