@@ -31,3 +31,5 @@ Karlotta war heute krank, daher habe ich alleine weiter gearbeitet. Ich wollte m
 Morgen werde ich mit den nächsten Punkten von "Joy of Code" weiter arbeiten. Dadurch kann ich die Blog Sprache besser kennen lernen und eventuell bald unsere eigene Spielidee entwickeln könnnen. 
 
 ## <a name="4"></a> Mittwoch, 12. Januar 2022
+
+Karlotta war heute immer noch krank. Ich habe weiter an den Punkten von "Joy of Code" gearbeitet, um  die Blog Sprache noch besser kennen zu lernen.   
