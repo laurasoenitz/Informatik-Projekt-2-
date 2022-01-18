@@ -10,6 +10,8 @@
 
 [3.   Mittwoch, 12. Januar 2022](#4)
 
+[4.   Dienstag, 18. Januar 2022](#5)
+
 ## Stundenblog
 
 ## <a name="1"></a> Dienstag, 14. Dezember 2021
@@ -28,8 +30,14 @@ Karlotta war heute krank, daher habe ich alleine weiter gearbeitet. Ich wollte m
 
 ![Unbenannt](https://user-images.githubusercontent.com/88386035/149142910-6ae2fab3-95e2-429e-bfda-77466ef293a1.PNG)
 
-Morgen werde ich mit den nächsten Punkten von "Joy of Code" weiter arbeiten. Dadurch kann ich die Blog Sprache besser kennen lernen und eventuell bald unsere eigene Spielidee entwickeln könnnen. 
+Morgen werde ich mit den nächsten Punkten von "Joy of Code" weiter arbeiten. Dadurch kann ich die Java Sprache besser kennen lernen und eventuell bald unsere eigene Spielidee entwickeln könnnen. 
 
 ## <a name="4"></a> Mittwoch, 12. Januar 2022
 
-Karlotta war heute immer noch krank. Ich habe weiter an den Punkten von "Joy of Code" gearbeitet, um  die Blog Sprache noch besser kennen zu lernen.   
+Karlotta war heute immer noch krank. Ich habe weiter an den Punkten von "Joy of Code" gearbeitet, um  die Blog Sprache noch besser kennen zu lernen. 
+
+## <a name="5"></a> Dienstag, 18. Januar 2022
+
+Heute war leider Laura krank, weshalb ich weiter die Videos von "Joy of Code" angeguckt habe. In den Lectionen #4 und #5 habe ich etwas über die verschiedenen Möglichkeiten ein Objekt zu bewegen gelernt und ich habe gelernt. Diese neuen Funktionen habe ich dann natürlich auch praktisch angewandt. 
+![grafik](https://user-images.githubusercontent.com/88385860/149965858-27313754-0851-45a2-9e93-602f804c8605.png)
+In der heutigen Stunde habe ich auch gelernt, dass man Objekte in verschiedenen KLassen unterteilen kann und es ein "erb Prinzip" gibt, welches aussagt, dass die Subclasses von zum Beispiel der Actor class, die Eigenschaften der Actor class übernehmen. Außerdem habe ich schon eine Idee für das Spiel entwickelt. Diese werde ich nächste Stunde mit Laura besprechen.
