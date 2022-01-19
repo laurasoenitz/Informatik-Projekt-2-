@@ -48,3 +48,5 @@ In der heutigen Stunde habe ich auch gelernt, dass man Objekte in verschiedenen 
 ## <a name="6"></a> Mittwoch, 19. Januar 2022
 
 ![Unbenannt](https://user-images.githubusercontent.com/88386035/150133408-96296781-cd3c-4e30-b918-69872fefc6c4.PNG)
+
+Wir haben heute das schste Vide von "Joy of Code" angeguckt. Dabei haben wir gelernt, wie man den Schildkröten die Eigenschaft des random behavior geben kann. Mithilfe des Videos haben wir dies ausprobiert.
