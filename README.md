@@ -12,6 +12,9 @@
 
 [4.   Dienstag, 18. Januar 2022](#5)
 
+
+[5.   Mittwoch, 19. Januar 2022](#6)
+
 ## Stundenblog
 
 ## <a name="1"></a> Dienstag, 14. Dezember 2021
@@ -41,3 +44,7 @@ Karlotta war heute immer noch krank. Ich habe weiter an den Punkten von "Joy of 
 Heute war leider Laura krank, weshalb ich weiter die Videos von "Joy of Code" angeguckt habe. In den Lectionen #4 und #5 habe ich etwas über die verschiedenen Möglichkeiten ein Objekt zu bewegen gelernt und ich habe gelernt. Diese neuen Funktionen habe ich dann natürlich auch praktisch angewandt. 
 ![grafik](https://user-images.githubusercontent.com/88385860/149965858-27313754-0851-45a2-9e93-602f804c8605.png)
 In der heutigen Stunde habe ich auch gelernt, dass man Objekte in verschiedenen KLassen unterteilen kann und es ein "erb Prinzip" gibt, welches aussagt, dass die Subclasses von zum Beispiel der Actor class, die Eigenschaften der Actor class übernehmen. Außerdem habe ich schon eine Idee für das Spiel entwickelt. Diese werde ich nächste Stunde mit Laura besprechen.
+
+## <a name="6"></a> Mittwoch, 19. Januar 2022
+
+![Unbenannt](https://user-images.githubusercontent.com/88386035/150133408-96296781-cd3c-4e30-b918-69872fefc6c4.PNG)
