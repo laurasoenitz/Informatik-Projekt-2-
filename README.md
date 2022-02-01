@@ -6,14 +6,15 @@
 
 [2.   Mittwoch, 15. Dezember 2021](#2)
 
-[2.   Dienstag, 11. Januar 2022](#3)
+[3.   Dienstag, 11. Januar 2022](#3)
 
-[3.   Mittwoch, 12. Januar 2022](#4)
+[4.   Mittwoch, 12. Januar 2022](#4)
 
-[4.   Dienstag, 18. Januar 2022](#5)
+[5.   Dienstag, 18. Januar 2022](#5)
 
+[6.   Mittwoch, 19. Januar 2022](#6)
 
-[5.   Mittwoch, 19. Januar 2022](#6)
+[7.   Dienstag, 1. Februar 2022](#7)
 
 ## Stundenblog
 
@@ -50,3 +51,8 @@ In der heutigen Stunde habe ich auch gelernt, dass man Objekte in verschiedenen 
 ![Unbenannt](https://user-images.githubusercontent.com/88386035/150133408-96296781-cd3c-4e30-b918-69872fefc6c4.PNG)
 
 Wir haben heute das sechste Video von "Joy of Code" angeguckt. Dabei haben wir gelernt, wie man den Schildkröten die Eigenschaft des random behavior geben kann. Mithilfe des Videos haben wir dies ausprobiert. 
+
+## <a name="7"></a> Dienstag, 1. Februar 2022
+
+![Hutent](https://user-images.githubusercontent.com/88386035/151990303-3b215baf-b6cf-450f-93f8-df2ae5da7e43.PNG)
+![Code](https://user-images.githubusercontent.com/88386035/151990313-c507d673-4dfc-44fb-80f3-fc6b7cc3709a.PNG)
