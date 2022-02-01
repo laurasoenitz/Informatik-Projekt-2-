@@ -59,3 +59,11 @@ Ich (Laura) habe heute weiter mit den Videos von "Joy of Code" gearbeitet. Ich h
 ![Hutent](https://user-images.githubusercontent.com/88386035/151990303-3b215baf-b6cf-450f-93f8-df2ae5da7e43.PNG)
 
 ![Code](https://user-images.githubusercontent.com/88386035/151994136-8d431e45-f91e-41d1-81fa-cf57ee0b99d6.PNG)
+
+Ich (Karlotta) habe heute auch die Videos 7 und 8 von "Joy of Code" angeschaut. Dabei habe ich gelernt, wie man die Schildkröten dazu bringen kann Blaubeeren zu essen und wie man Den Code übersichtlich mit Kommentaren gestaltet. 
+
+![grafik](https://user-images.githubusercontent.com/88385860/151997521-4ff722a8-7f42-46ac-b081-91e57abcf49a.png)
+
+![grafik](https://user-images.githubusercontent.com/88385860/151997582-d72a16c6-0615-47e2-9956-0e418f5197d0.png)
+
+
