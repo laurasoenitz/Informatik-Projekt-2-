@@ -54,7 +54,7 @@ Wir haben heute das sechste Video von "Joy of Code" angeguckt. Dabei haben wir g
 
 ## <a name="7"></a> Dienstag, 1. Februar 2022
 
-Ich (Laura) habe heute weiter mit den Videos von "Joy of Code" gearbeitet. Ich habe einen neuen Actor erstellt und zwar Gras. Danach habe ich die Schildkröte so progammiert, dass sie das Gras frisst. 
+Ich (Laura) habe heute weiter mit den Videos von "Joy of Code" gearbeitet. Ich habe einen neuen Actor erstellt und zwar Gras. Danach habe ich die Schildkröte so progammiert, dass sie das Gras frisst. Danach habe ich mit dem Video Acht weitergemacht.
 
 ![Hutent](https://user-images.githubusercontent.com/88386035/151990303-3b215baf-b6cf-450f-93f8-df2ae5da7e43.PNG)
 
