@@ -16,6 +16,8 @@
 
 [7.   Dienstag, 1. Februar 2022](#7)
 
+[8.   Mittwoch, 2. Februar 2022](#8)
+
 ## Stundenblog
 
 ## <a name="1"></a> Dienstag, 14. Dezember 2021
@@ -65,5 +67,14 @@ Ich (Karlotta) habe heute auch die Videos 7 und 8 von "Joy of Code" angeschaut. 
 ![grafik](https://user-images.githubusercontent.com/88385860/151997521-4ff722a8-7f42-46ac-b081-91e57abcf49a.png)
 
 ![grafik](https://user-images.githubusercontent.com/88385860/151997582-d72a16c6-0615-47e2-9956-0e418f5197d0.png)
+
+
+## <a name="8"></a> Mittwoch, 2. Februar 2022
+
+Heute habe ich (Karlotta) mir die Videos 9 und 10 von der Reihe "Joy of Code" angesehen. In diesen hat man zuerst ein neues Tier erstellt, welches in meinem Fall eine Krabbe ist, welche die Schildkröten fressen kann. Die Krabbe hatte zu anffang noch den gleiche Code, wie die Schildkröten, sodass sie sich zufällig bewegt haben. Allerdings sind sie, da sie sich zufällig bewegt haben, auch nur zufällig aufeinander getroffen. Dies konnte man ändern, in dem man den Code der Schildkröte geändert hat. Da "randomTurn" und das "turnAtEdge" habe ich durch "clickKeys" ersetzt. Al Keys habe ich die Pfeiltaste nach links und die nach rechts festgelegt. Mit dieser Änderung ist das Spiel nun spielbar.
+
+![grafik](https://user-images.githubusercontent.com/88385860/152158011-8c1fc429-85c4-4225-a950-1f653ed59ace.png)
+
+![grafik](https://user-images.githubusercontent.com/88385860/152158065-0624b773-57e9-401e-8117-ba6aad39beee.png)
 
 
