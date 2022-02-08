@@ -18,6 +18,8 @@
 
 [8.   Mittwoch, 2. Februar 2022](#8)
 
+[9.   Dienstag, 8. Februar 2022](#8)
+
 ## Stundenblog
 
 ## <a name="1"></a> Dienstag, 14. Dezember 2021
@@ -77,10 +79,24 @@ Ich (Laura) habe heute gelernt wie man den Code ordentlicher schreiben kann und 
 
 ![Unbenannt2](https://user-images.githubusercontent.com/88386035/153008253-d45ab2b7-5892-4072-9613-454324553872.PNG)
 
-Heute habe ich (Karlotta) mir die Videos 9 und 10 von der Reihe "Joy of Code" angesehen. In diesen hat man zuerst ein neues Tier erstellt, welches in meinem Fall eine Krabbe ist, welche die Schildkröten fressen kann. Die Krabbe hatte zu anffang noch den gleiche Code, wie die Schildkröten, sodass sie sich zufällig bewegt haben. Allerdings sind sie, da sie sich zufällig bewegt haben, auch nur zufällig aufeinander getroffen. Dies konnte man ändern, in dem man den Code der Schildkröte geändert hat. Da "randomTurn" und das "turnAtEdge" habe ich durch "clickKeys" ersetzt. Al Keys habe ich die Pfeiltaste nach links und die nach rechts festgelegt. Mit dieser Änderung ist das Spiel nun spielbar.
+Heute habe ich (Karlotta) mir die Videos 9 und 10 von der Reihe "Joy of Code" angesehen. In diesen hat man zuerst ein neues Tier erstellt, welches in meinem Fall eine Krabbe ist, welche die Schildkröten fressen kann. Die Krabbe hatte zu anffang noch den gleiche Code, wie die Schildkröten, sodass sie sich zufällig bewegt haben. Allerdings sind sie, da sie sich zufällig bewegt haben, auch nur zufällig aufeinander getroffen. Dies konnte man ändern, in dem man den Code der Schildkröte geändert hat. Da "randomTurn" und das "turnAtEdge" habe ich durch "clickKeys" ersetzt. Als Keys habe ich die Pfeiltaste nach links und die nach rechts festgelegt. Mit dieser Änderung ist das Spiel nun spielbar.
 
 ![grafik](https://user-images.githubusercontent.com/88385860/152158011-8c1fc429-85c4-4225-a950-1f653ed59ace.png)
 
 ![grafik](https://user-images.githubusercontent.com/88385860/152158065-0624b773-57e9-401e-8117-ba6aad39beee.png)
 
+## <a name="8"></a> Dienstag, 8. Februar 2022
 
+Ich (Laura) habe mir die letzten Videos aus der Reihe "Joy of Code" angesehen. Jetzt habe ich eine Schlange, die das Ziel hat die Schildkröte zu essen. Im Prinzip ist es das gleiche wie bei der Schildkröte. Nur möchte die Schlange nicht das Gras sondern die Schildkröte essen. Die Schlangen bewegen sich zufällig. Im letzten Video wurde erklärt wie man die Schildkröte als Spieler machen kann und man gezielt steuern kann. Dafür habe ich den Code von der Schildkröte verändert und "clickKeys" eingesetzt. Nun kann man mit den linken und rechten Pfeiltasten die Schildkröte steuern. 
+
+![Unbenannt PNG 2](https://user-images.githubusercontent.com/88386035/153018974-80878f34-4eb2-4469-b4d0-cc5af6d74dd4.PNG)
+
+![Unbenannt PNG 55](https://user-images.githubusercontent.com/88386035/153018979-3f0cddc9-95b5-4d73-8434-7f030a32129a.PNG)
+
+(Schlange) 
+
+![Unbenannt PNG 333](https://user-images.githubusercontent.com/88386035/153019141-a9738acd-e809-44ae-9bf8-8d5749183e66.PNG)
+
+(Schildröte)
+
+Am Ende der Stunde hat mit Herr Buhl verschiedene Spielideen vorgeschlagen. Diese habe ich angefangen anzuschauen und ich werde dann in der nächste Stunde den Rest an Spielideen anschauen und mich für eine entscheiden. 
