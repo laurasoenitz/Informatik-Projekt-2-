@@ -18,7 +18,7 @@
 
 [8.   Mittwoch, 2. Februar 2022](#8)
 
-[9.   Dienstag, 8. Februar 2022](#8)
+[9.   Dienstag, 8. Februar 2022](#9)
 
 ## Stundenblog
 
@@ -85,18 +85,16 @@ Heute habe ich (Karlotta) mir die Videos 9 und 10 von der Reihe "Joy of Code" an
 
 ![grafik](https://user-images.githubusercontent.com/88385860/152158065-0624b773-57e9-401e-8117-ba6aad39beee.png)
 
-## <a name="8"></a> Dienstag, 8. Februar 2022
+## <a name="9"></a> Dienstag, 8. Februar 2022
 
 Ich (Laura) habe mir die letzten Videos aus der Reihe "Joy of Code" angesehen. Jetzt habe ich eine Schlange, die das Ziel hat die Schildkröte zu essen. Im Prinzip ist es das gleiche wie bei der Schildkröte. Nur möchte die Schlange nicht das Gras sondern die Schildkröte essen. Die Schlangen bewegen sich zufällig. Im letzten Video wurde erklärt wie man die Schildkröte als Spieler machen kann und man gezielt steuern kann. Dafür habe ich den Code von der Schildkröte verändert und "clickKeys" eingesetzt. Nun kann man mit den linken und rechten Pfeiltasten die Schildkröte steuern. 
 
 ![Unbenannt PNG 2](https://user-images.githubusercontent.com/88386035/153018974-80878f34-4eb2-4469-b4d0-cc5af6d74dd4.PNG)
 
 ![Unbenannt PNG 55](https://user-images.githubusercontent.com/88386035/153018979-3f0cddc9-95b5-4d73-8434-7f030a32129a.PNG)
-
 (Schlange) 
 
 ![Unbenannt PNG 333](https://user-images.githubusercontent.com/88386035/153019141-a9738acd-e809-44ae-9bf8-8d5749183e66.PNG)
-
 (Schildröte)
 
 Am Ende der Stunde hat mit Herr Buhl verschiedene Spielideen vorgeschlagen. Diese habe ich angefangen anzuschauen und ich werde dann in der nächste Stunde den Rest an Spielideen anschauen und mich für eine entscheiden. 
