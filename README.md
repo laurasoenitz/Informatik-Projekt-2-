@@ -73,7 +73,9 @@ Ich (Karlotta) habe heute auch die Videos 7 und 8 von "Joy of Code" angeschaut. 
 
 Ich (Laura) habe heute gelernt wie man den Code ordentlicher schreiben kann und werde nächste Woche die Videoreihe von "Joy of Code" beenden. 
 
-![Dingst](https://user-images.githubusercontent.com/88386035/153006645-a103d722-de91-4513-9ed4-02699305096b.PNG)
+![Unbenannt1](https://user-images.githubusercontent.com/88386035/153008249-221c5e48-808d-47a2-b3b8-838c63503217.PNG)
+
+![Unbenannt2](https://user-images.githubusercontent.com/88386035/153008253-d45ab2b7-5892-4072-9613-454324553872.PNG)
 
 Heute habe ich (Karlotta) mir die Videos 9 und 10 von der Reihe "Joy of Code" angesehen. In diesen hat man zuerst ein neues Tier erstellt, welches in meinem Fall eine Krabbe ist, welche die Schildkröten fressen kann. Die Krabbe hatte zu anffang noch den gleiche Code, wie die Schildkröten, sodass sie sich zufällig bewegt haben. Allerdings sind sie, da sie sich zufällig bewegt haben, auch nur zufällig aufeinander getroffen. Dies konnte man ändern, in dem man den Code der Schildkröte geändert hat. Da "randomTurn" und das "turnAtEdge" habe ich durch "clickKeys" ersetzt. Al Keys habe ich die Pfeiltaste nach links und die nach rechts festgelegt. Mit dieser Änderung ist das Spiel nun spielbar.
 
