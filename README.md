@@ -20,6 +20,8 @@
 
 [9.   Dienstag, 8. Februar 2022](#9)
 
+[10.   Mittwoch, 9. Februar 2022](#10)
+
 ## Stundenblog
 
 ## <a name="1"></a> Dienstag, 14. Dezember 2021
@@ -98,3 +100,13 @@ Ich (Laura) habe mir die letzten Videos aus der Reihe "Joy of Code" angesehen. J
 (Schildröte)
 
 Am Ende der Stunde hat mit Herr Buhl verschiedene Spielideen vorgeschlagen. Diese habe ich angefangen anzuschauen und ich werde dann in der nächste Stunde den Rest an Spielideen anschauen und mich für eine entscheiden. 
+
+## <a name="10"></a> Mittwoch, 9. Februar 2022
+
+Ich (Laura) möchte mich mit dem Projekt boids beschäftigen. Das Projekt simuliert das Schwarmverhalten von Vögeln. 
+Dabei möchte man das alle Vögel drei Regeln beachten:
+1. Seperation: Gehe auf Abstand zu anderen Vögeln, wenn du ihnen zu nahe kommst.
+2. Angleichung: Richte deinen Flug an die mittlere Flugrichtung der anderen Vögel in der Nähe aus.
+3. Zusammenhalt: Bewege dich auf die mittlere Position der anderen Vögel in deiner Nähe zu.
+
+Ich habe 
