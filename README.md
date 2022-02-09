@@ -105,8 +105,9 @@ Am Ende der Stunde hat mit Herr Buhl verschiedene Spielideen vorgeschlagen. Dies
 
 Ich (Laura) möchte mich mit dem Projekt boids beschäftigen. Das Projekt simuliert das Schwarmverhalten von Vögeln. 
 Dabei möchte man das alle Vögel drei Regeln beachten:
+
 1. Seperation: Gehe auf Abstand zu anderen Vögeln, wenn du ihnen zu nahe kommst.
 2. Angleichung: Richte deinen Flug an die mittlere Flugrichtung der anderen Vögel in der Nähe aus.
 3. Zusammenhalt: Bewege dich auf die mittlere Position der anderen Vögel in deiner Nähe zu.
 
-Ich habe 
+Ich habe in der heutigen Stunde angefangen einen Hintergrund einzufügen und den Vogel und den Baum zu erstellen.
